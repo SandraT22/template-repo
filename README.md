@@ -2,7 +2,7 @@
 
 #### (Brief Description of Application)
 
-#### By (Your Name Here)
+#### By Sandra Tena
 
 ## Technologies Used
 
@@ -15,11 +15,9 @@
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* clone this repository using git clone https://github.com/SandraT22/template-repo.git.
+* run npm install
+* update the title of the project located on line 18 of webpack.config.js
 
 ## Known Bugs
 
@@ -29,3 +27,4 @@
 ## License
 
 ## Contact Information
+_If you have any questions or concerns, please feel free to reach out to me [via email at: sandratena06@gmail.com](mailto:sandratena06@gmail.com) or request to make a contribution. Thank you!_ 
